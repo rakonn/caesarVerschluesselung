@@ -43,7 +43,7 @@ def handleFileInput(argv):
         path = argv[0]
         shift = argv[1]
     except IndexError:
-        print("usage: encodeCaesars <file.txt>")
+        print("usage: encodeCaesars <file.txt> <alphabet offset>")
         sys.exit(2)
 
     try:
