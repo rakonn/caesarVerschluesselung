@@ -5,4 +5,4 @@ Wenn nur caesarsVerschluesselung.py aufgerufen wird startet das Script im intera
 
 Wenn nach caesarsVerschluesselung.py eine txt Datei spezifiziert wird, wird diese mit der nachfolgenden Verschiebung encoded und in results.txt gespeichert.
 
-usage: encodeCaesars <file.txt> <alphabet offset>
+usage: "encodeCaesars.py <file.txt> <alphabet offset>"
